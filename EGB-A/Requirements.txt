@@ -1,0 +1,7 @@
+TensorFlow == 1.12.0
+keras == 2.2.4
+python == 3.6.7
+skimage
+osgeo
+matplotlib
+cv2
