@@ -39,8 +39,7 @@ Please download through this link if you are in China:
 code: buda
 
 
-Link to open access xBD dataset:  
-[https://xview2.org/dataset](https://xview2.org/dataset)
+Link to open access xBD dataset: [https://xview2.org/dataset](https://xview2.org/dataset)
 
 ##
 If you have any questions, please feel free to contact: 202021051203@mail.bnu.edu.cn
