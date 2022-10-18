@@ -40,7 +40,7 @@ code: buda
 
 
 Link to open access xBD dataset:  
-[https://www.digitalglobe.com/ecosystem/open-data](https://www.digitalglobe.com/ecosystem/open-data)
+[https://xview2.org/dataset](https://xview2.org/dataset)
 
 ##
 If you have any questions, please feel free to contact: 202021051203@mail.bnu.edu.cn
