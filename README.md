@@ -34,10 +34,6 @@ Several datasets are used in this work.
 You can find the data of the Haiti and Nepal cases we used in this shared folder: 
 [https://drive.google.com/drive/folders/1Um9poJPwbrVRE1ge01prrKOONot0XfM6?usp=sharing](https://drive.google.com/drive/folders/1Um9poJPwbrVRE1ge01prrKOONot0XfM6?usp=sharing)  
 
-Please download through this link if you are in China:  
-[https://pan.baidu.com/s/1urmRnlJTfbZ2eg5IXaHYnQ](https://pan.baidu.com/s/1urmRnlJTfbZ2eg5IXaHYnQ)  
-code: buda
-
 
 Link to open access xBD dataset: [https://xview2.org/dataset](https://xview2.org/dataset)
 
