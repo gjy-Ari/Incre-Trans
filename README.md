@@ -37,5 +37,9 @@ You can find the data of the Haiti and Nepal cases we used in this shared folder
 
 Link to open access xBD dataset: [https://xview2.org/dataset](https://xview2.org/dataset)
 
+## Citation
+If you use the method or data of this work, please cite the following paper:
+[https://doi.org/10.1016/j.isprsjprs.2022.11.010](https://doi.org/10.1016/j.isprsjprs.2022.11.010)
+
 ##
 If you have any questions, please feel free to contact: 202021051203@mail.bnu.edu.cn
