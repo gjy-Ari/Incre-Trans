@@ -30,7 +30,7 @@ class Boost_Model():
 
     def load_boost_model(self
                                   ):
-        boost_lr_list = [self.boost_lr] * (len(self.weights_path_list)-1)+[1]
+        boost_lr_list = self.boost_lr + [1]
         network_inputs = build_inputs(number_of_class=self.number_of_class,
                                       train_input_size=(
                                           self.input_size, self.input_size),
