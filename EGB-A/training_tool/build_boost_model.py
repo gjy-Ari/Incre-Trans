@@ -38,9 +38,8 @@ def build_boost_model(segmentation_model, weights_path_list, geo_range_list,
             x = model.output
             model_output = AdaptiveLrLayer(name=f'stage_{stage_index}_Adaptive_learning_rate')(x)
 
-            # #Artificial learning rate of EGB
+            # #Learning rates in prediction (please remove "#" in lines 42-45 and comment out line 39).
             # def multiply_boost_lr_(x):
-            #    #boost_lr = K.constant(boost_lr, dtype='float32')
             #    model_output = boost_lr * x
             #    return model_output
             # model_output = layers.Lambda(multiply_boost_lr_)(x)
